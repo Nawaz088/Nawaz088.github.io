@@ -1013,9 +1013,9 @@ a:hover {
   opacity: 1;
   border: 1px solid #0078ff;
 }
-
+/* original color = 0078ff */
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0078ff;
+  background-color: #0078ff; 
 }
 
 .portfolio-details .portfolio-info {
